@@ -21,6 +21,7 @@ LINUX KURULUM
        ![WhatsApp Image 2024-10-26 at 11 30 01_024fb68b](https://github.com/user-attachments/assets/72003672-93fd-4c33-871e-8f07be801851)
 
 7.1-bios girdekten sonra boot menu basarız ondan sonra ubuntu seçeriz
+
 7.2- dil seç
        ![WhatsApp Image 2024-10-26 at 11 36 38_96284806](https://github.com/user-attachments/assets/21cb671d-96a1-4264-bd0d-496f5e6cc5a0)
 7.3-klavye dili
